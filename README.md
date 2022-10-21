@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.shreyaan.me/](https://www.shreyaan.me/)
 
-- 💬 Ask me about **Js,Html,Css,React,Nodejs**
+- 💬 Ask me about **Js, Html, Css, React, Nodejs**
 
 - 📫 How to reach me [https://www.shreyaan.me/contact](https://www.shreyaan.me/contact)
 
