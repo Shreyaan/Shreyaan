@@ -216,14 +216,34 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+      alt="jest"
+      width="40"
+      height="40"
+    />
+  </a>  <a
+    href="https://github.com/puppeteer/puppeteer"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg"
+      alt="puppeteer"
+      width="40"
+      height="40"
+    />
+  </a>
 </div>
 
 </td></tr></table>  
 
-<br/>  
+
+## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaan&show_icons=true&locale=en&layout=compact" alt="shreyaan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaan&show_icons=true&locale=en" alt="shreyaan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaan&show_icons=true&locale=en" alt="shreyaan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaan&" alt="shreyaan" /></p>
+
