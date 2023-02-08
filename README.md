@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaan&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaan" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/7ff87e66-1b59-41b4-bb1d-ec8cec5371c3.svg)](https://wakatime.com/@7ff87e66-1b59-41b4-bb1d-ec8cec5371c3)
+
 - 🌱 I’m currently learning **TypeScript, Dsa**
 
 - 👨‍💻 All of my projects are available at [https://www.shreyaan.me/](https://www.shreyaan.me/)
