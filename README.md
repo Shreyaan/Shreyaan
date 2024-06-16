@@ -5,13 +5,14 @@
 
 [![wakatime](https://wakatime.com/badge/user/7ff87e66-1b59-41b4-bb1d-ec8cec5371c3.svg)](https://wakatime.com/@7ff87e66-1b59-41b4-bb1d-ec8cec5371c3)
 
-- 🌱 I’m currently learning **TypeScript, Dsa**
+- 🌱 I’m currently working working @ Byteleap
 
-- 👨‍💻 All of my projects are available at [https://www.shreyaan.me/](https://www.shreyaan.me/)
-
-- 💬 Ask me about **Js, Html, Css, React, Nodejs**
+- 💬 Ask me about **TS, JS, NextJs, Python, Flask, Postgresql, Html, Css, React, Nodejs**
 
 - 📫 How to reach me [https://www.shreyaan.me/contact](https://www.shreyaan.me/contact)
+
+-  👨‍💻 All of my projects are available at [https://www.shreyaan.me/](https://www.shreyaan.me/) (no longer maintained)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
