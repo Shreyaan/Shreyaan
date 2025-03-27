@@ -5,6 +5,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/7ff87e66-1b59-41b4-bb1d-ec8cec5371c3.svg)](https://wakatime.com/@7ff87e66-1b59-41b4-bb1d-ec8cec5371c3)
 
+![WakaTime Stats](https://wakatime.com/share/@shreyaans20/e4982542-6255-488e-adfa-682c91a45450.png)]
+
+    
 - 🌱 I’m currently working working @ Byteleap
 
 - 💬 Ask me about **TS, JS, NextJs, Python, Flask, Postgresql, Html, Css, React, Nodejs**
